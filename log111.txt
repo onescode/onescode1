@@ -1,3 +1,8 @@
 [master 4659166] ''
  2 files changed, 1 insertion(+), 1 deletion(-)
  create mode 100644 log111.txt
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
