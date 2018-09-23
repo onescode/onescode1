@@ -5,9 +5,10 @@
 			<Metadata name="Catalog.Справочник1.Attribute.ggggggggg" id="56a54ca5-da28-4bb2-93a2-1b381f0b6eca"/>
 		</Metadata>
 		<Metadata name="Catalog.Справочник2" id="3d5a2e86-3bab-4392-a19d-870e8c725d5b" configVersion="a6509df93f2330448ebbf41bcbdaf16e00000000"/>
+		<Metadata name="Catalog.Справочник3" id="013af1be-64ad-421b-8a05-f0a2ac7b4f53" configVersion="5c4917c684e6c244a5cfe1a29c222abb00000000"/>
 		<Metadata name="CommonForm.Форма" id="3dbef247-614b-4d89-9ccc-1cfc66083c9f" configVersion="39e29089e23ee2498e08029c0c91bf1d00000000"/>
 		<Metadata name="CommonForm.Форма.Form" id="3dbef247-614b-4d89-9ccc-1cfc66083c9f.0" configVersion="9f2958ebb44cb64fb4ac412e2c0a323b00000000"/>
-		<Metadata name="Configuration.onescode1" id="18eb1242-0008-44f3-a1bc-ee1d1e348537" configVersion="732ce60bcbed054b8b25d239f1cd5ac400000000"/>
+		<Metadata name="Configuration.onescode1" id="18eb1242-0008-44f3-a1bc-ee1d1e348537" configVersion="ae6a3edc5ac6b84fadaa514a42dd146d00000000"/>
 		<Metadata name="Configuration.onescode1.HomePageWorkArea" id="0ca27459-a24e-4a4e-bb16-d84b7477762d.8" configVersion="8fe9c689eacaa94894ecfb0d83df530200000000"/>
 		<Metadata name="Language.Русский" id="3bd60f8b-5aaf-45ca-a798-7329bcdf1bb0" configVersion="e36b3747c6ac374bbc9329179974963f00000000"/>
 	</ConfigVersions>
