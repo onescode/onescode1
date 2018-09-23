@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.6">
-	<Catalog uuid="d23043d2-70a1-430c-9103-71cf6412480d">
+	<Catalog uuid="3d5a2e86-3bab-4392-a19d-870e8c725d5b">
 		<InternalInfo>
-			<xr:GeneratedType name="CatalogObject.Справочник1" category="Object">
-				<xr:TypeId>1d933d60-db44-4262-9371-1caace478ed4</xr:TypeId>
-				<xr:ValueId>e870be1c-f8b8-4e5b-b07b-c6608846e161</xr:ValueId>
+			<xr:GeneratedType name="CatalogObject.Справочник2" category="Object">
+				<xr:TypeId>8b9e15b9-8ab6-44e0-b61f-d994ccdede22</xr:TypeId>
+				<xr:ValueId>cda701ac-1c20-427a-97d3-7299f6cdd3b7</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogRef.Справочник1" category="Ref">
-				<xr:TypeId>8c792084-00de-4638-9fcc-610fac5edbf3</xr:TypeId>
-				<xr:ValueId>c51d6c31-147a-4048-bd4a-5d7eeb41ce4c</xr:ValueId>
+			<xr:GeneratedType name="CatalogRef.Справочник2" category="Ref">
+				<xr:TypeId>c0ff0a50-0516-48b2-87d4-295bed42bd5a</xr:TypeId>
+				<xr:ValueId>6e21e8ff-89aa-411b-8ec7-d1a4454e51d1</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogSelection.Справочник1" category="Selection">
-				<xr:TypeId>7aef22a2-4a9a-4dbb-b632-240b4df271f3</xr:TypeId>
-				<xr:ValueId>c4a5b034-85af-4a38-aa0f-326b560cdffe</xr:ValueId>
+			<xr:GeneratedType name="CatalogSelection.Справочник2" category="Selection">
+				<xr:TypeId>99140d7c-8bae-48ab-b0e4-d7eeb56a82c3</xr:TypeId>
+				<xr:ValueId>cc66a3c8-9edb-45ea-98ad-8e521c008c77</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogList.Справочник1" category="List">
-				<xr:TypeId>9ae77096-b145-491d-97e7-94cca28a5304</xr:TypeId>
-				<xr:ValueId>4e256920-62de-41b5-b7b5-dd7c05706030</xr:ValueId>
+			<xr:GeneratedType name="CatalogList.Справочник2" category="List">
+				<xr:TypeId>dfe3ba0b-0d25-4c45-b39f-83afd5d52989</xr:TypeId>
+				<xr:ValueId>db9b2e1f-72bc-4e45-86d1-cc256b8d8bbc</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogManager.Справочник1" category="Manager">
-				<xr:TypeId>8331aeb2-7dd0-4af9-b495-22f050b0a9dd</xr:TypeId>
-				<xr:ValueId>09b0300e-21be-43c6-9706-fb41c647da0f</xr:ValueId>
+			<xr:GeneratedType name="CatalogManager.Справочник2" category="Manager">
+				<xr:TypeId>798ce58c-723e-40e1-bfc7-6ab38eb90e6d</xr:TypeId>
+				<xr:ValueId>3225e985-195d-47d1-b6b5-703f3d220784</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>Справочник1</Name>
+			<Name>Справочник2</Name>
 			<Synonym/>
 			<Comment/>
 			<Hierarchical>false</Hierarchical>
@@ -49,8 +49,8 @@
 			<QuickChoice>false</QuickChoice>
 			<ChoiceMode>BothWays</ChoiceMode>
 			<InputByString>
-				<xr:Field>Catalog.Справочник1.StandardAttribute.Description</xr:Field>
-				<xr:Field>Catalog.Справочник1.StandardAttribute.Code</xr:Field>
+				<xr:Field>Catalog.Справочник2.StandardAttribute.Description</xr:Field>
+				<xr:Field>Catalog.Справочник2.StandardAttribute.Code</xr:Field>
 			</InputByString>
 			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
 			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
@@ -79,51 +79,6 @@
 			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
 			<DataHistory>DontUse</DataHistory>
 		</Properties>
-		<ChildObjects>
-			<Attribute uuid="56a54ca5-da28-4bb2-93a2-1b381f0b6eca">
-				<Properties>
-					<Name>ggggggggg</Name>
-					<Synonym>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Ggggggggg</v8:content>
-						</v8:item>
-					</Synonym>
-					<Comment/>
-					<Type>
-						<v8:Type>xs:string</v8:Type>
-						<v8:StringQualifiers>
-							<v8:Length>10</v8:Length>
-							<v8:AllowedLength>Variable</v8:AllowedLength>
-						</v8:StringQualifiers>
-					</Type>
-					<PasswordMode>false</PasswordMode>
-					<Format/>
-					<EditFormat/>
-					<ToolTip/>
-					<MarkNegatives>false</MarkNegatives>
-					<Mask/>
-					<MultiLine>false</MultiLine>
-					<ExtendedEdit>false</ExtendedEdit>
-					<MinValue xsi:nil="true"/>
-					<MaxValue xsi:nil="true"/>
-					<FillFromFillingValue>false</FillFromFillingValue>
-					<FillValue xsi:type="xs:string"/>
-					<FillChecking>DontCheck</FillChecking>
-					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks/>
-					<ChoiceParameters/>
-					<QuickChoice>Auto</QuickChoice>
-					<CreateOnInput>Auto</CreateOnInput>
-					<ChoiceForm/>
-					<LinkByType/>
-					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-					<Use>ForItem</Use>
-					<Indexing>DontIndex</Indexing>
-					<FullTextSearch>Use</FullTextSearch>
-					<DataHistory>Use</DataHistory>
-				</Properties>
-			</Attribute>
-		</ChildObjects>
+		<ChildObjects/>
 	</Catalog>
 </MetaDataObject>
